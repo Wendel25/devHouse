@@ -15,6 +15,7 @@
     "sucrase": "^3.34.0"
   },
   "dependencies": {
+    "cors": "^2.8.5",
     "mogoose": "^0.0.1-security",
     "mongoose": "^8.0.3",
     "multer": "^1.4.5-lts.1"
