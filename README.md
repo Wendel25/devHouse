@@ -1,9 +1,3 @@
-Projeto de estudo feito com Node.
+## App Dev House.
 
-Foi criado algumas apis:
-  POST
-  GET
-  DELETE
-  UPDATE
-
-O projeto tem a ideia de que um usuário é cadastrado via e-mail e tem a possibilidade de alugar casas.
+A ideia do projeot consiste em cadastrar um usuário e, dentro do sistema, cada usuário tem a possibilidade de alugar uma casa.
